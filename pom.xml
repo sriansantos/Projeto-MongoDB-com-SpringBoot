@@ -55,7 +55,13 @@
 			<artifactId>spring-boot-starter-webmvc-test</artifactId>
 			<scope>test</scope>
 		</dependency>
-	</dependencies>
+	
+   <dependency>
+     <groupId>foundation.icon</groupId>
+     <artifactId>javaee-scorex</artifactId>
+     <version>0.5.4.1</version>
+   </dependency>
+ </dependencies>
 
 	<build>
 		<plugins>
